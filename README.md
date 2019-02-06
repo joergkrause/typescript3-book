@@ -1,6 +1,6 @@
 # Buch-Unterstützung
 
-Das ist das Repository für "TypeScript 2".
+Das ist das Repository für "TypeScript 23".
 
 # Das Buch
 
@@ -10,11 +10,11 @@ The Book is currently available in German only.
 
 ## Deutsch
 
-Die verschiedenene Versionen finden Sie hier -- 5 Formate, DRM frei und gedruckt --:
+Die verschiedenen Versionen finden Sie hier -- 5 Formate, DRM frei und gedruckt --:
 
-* PDF, EPUB, and MOBI: [https://leanpub.com/typescript-basics](https://leanpub.com/typescript-basics) -- provided by LeanPub
-* For your Kindle: [https://www.amazon.de/dp/B01MRQIAML](https://www.amazon.de/dp/B01MRQIAML) -- provided by Amazon KDP
-* Printed Copy: [https://www.amazon.de/dp/1534601929/](https://www.amazon.de/dp/1534601929/) -- provided by Amazon CreateSpace
+* PDF, EPUB, and MOBI: [https://leanpub.com/typescript-basics](https://leanpub.com/typescript-basics) -- von LeanPub
+* Für dein Kindle: [https://www.amazon.de/dp/B01MRQIAML](https://www.amazon.de/dp/B01MRQIAML) -- von Amazon KDP
+* Gedruckte Kopie: [https://www.amazon.de/dp/1534601929/](https://www.amazon.de/dp/1534601929/) -- von Amazon KDP
 
-> Proudly published by *texxtoor* technology.
+> Proudly published by *texxtoor* technology. Written in Markdown. Made with LaTex.
 
