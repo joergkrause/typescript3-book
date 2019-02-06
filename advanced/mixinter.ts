@@ -8,3 +8,5 @@ interface Box {
 }
 
 var box: Box = {height: 5, width: 6, scale: 10};
+
+
