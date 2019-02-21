@@ -1,4 +1,4 @@
-function Person(age) {
+function Person(age: number) {
   this.age = age
   this.growOld = () => { this.age++; }
 }
